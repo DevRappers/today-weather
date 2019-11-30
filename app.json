@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "today_weather App",
+    "githubUrl": "https://github.com/DevRappers/today-weather"
   }
 }
