@@ -14,8 +14,8 @@ const weatherOptions = {
 	Drizzle: {
 		iconName: 'weather-hail',
 		gradient: [ '#89F7FE', '#66A6FF' ],
-		title: 'Drizzle',
-		subtitle: 'Is like rain, but gay 🏳️‍🌈'
+		title: '이슬비가 내려요.',
+		subtitle: '비는 비니까 우산을 챙겨주세요.'
 	},
 	Rain: {
 		iconName: 'weather-rainy',
@@ -55,7 +55,7 @@ const weatherOptions = {
 		iconName: 'weather-hail',
 		gradient: [ '#4DA0B0', '#D39D38' ],
 		title: 'Dusty',
-		subtitle: 'Thanks a lot China 🖕🏻'
+		subtitle: '무미건조한 날이네요...'
 	},
 	Haze: {
 		iconName: 'weather-hail',
